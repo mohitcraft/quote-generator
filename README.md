@@ -2,10 +2,10 @@
 This is a simple web application that displays random quotes when the user clicks a button. It is built using HTML, CSS, and JavaScript.
 
 ## Homepage
-![Homepage](uploads\Homepage.png)
+![Homepage](./uploads/Homepage.png)
 
 ## Twitter post
-![Twitter](uploads\Twitter.png)
+![Twitter](./uploads/Twitter.png)
 
 # Table of Contents
 - [Features](#features)
